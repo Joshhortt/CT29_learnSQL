@@ -4,30 +4,29 @@
 
 ================================================================================
 
-_This Web page is about a simple **SQL programming**_.<br/>
+_This Web page is about creating, editing, deleting databases and tables_<br/>
+_and more SQL programming**_.<br/>
 _version:12/011/2019_<br/>
 
 _By **Josh Hortt**_
 
 ## SOURCES
-_LEARN SQL   https://www.geeksforgeeks.org/sql-tutorial/ _<br/>
-_LEARN SQL   https://www.w3schools.com/sql/ _<br/>
-_LEARN SQL   https://www.tutorialspoint.com/sql/ _<br/>
+https://www.geeksforgeeks.org/sql-tutorial/
+https://www.w3schools.com/sql/
+https://www.tutorialspoint.com/sql/
 
 
 _**IN CLASS SOURCES**_ <br/>
-_Syntax  https://www.w3schools.com/sql/sql_syntax.asp _<br/>
-_Data Types  https://www.w3schools.com/sql/sql_datatypes.asp _<br/
-_CREATE DATABASE  https://www.w3schools.com/sql/sql_create_db.asp _<br/
-_DROP DATABASE  https://www.w3schools.com/sql/sql_drop_db.asp _<br/
-_CREATE TABLE  https://www.w3schools.com/sql/sql_create_table.asp _<br/
-_DROP TABLE  https://www.w3schools.com/sql/sql_drop_table.asp _<br/
-_SELECT statement  https://www.w3schools.com/sql/sql_select.asp _<br/
-_Where condition  https://www.w3schools.com/sql/sql_where.asp _<br/
-_INSERT INTO statement  https://www.w3schools.com/sql/sql_insert.asp _<br/
-_NULL values  https://www.w3schools.com/sql/sql_null_values.asp _<br/
-_UPDATE statement  https://www.w3schools.com/sql/sql_update.asp _<br/
-_DELETE  statement  https://www.w3schools.com/sql/sql_delete.asp _<br/
+https://www.w3schools.com/sql/sql_syntax.asp
+https://www.w3schools.com/sql/sql_drop_db.asp
+https://www.w3schools.com/sql/sql_create_table.asp
+https://www.w3schools.com/sql/sql_drop_table.asp
+https://www.w3schools.com/sql/sql_select.asp
+https://www.w3schools.com/sql/sql_where.asp
+https://www.w3schools.com/sql/sql_insert.asp
+https://www.w3schools.com/sql/sql_null_values.asp
+https://www.w3schools.com/sql/sql_update.asp
+https://www.w3schools.com/sql/sql_delete.asp
 
 ================================================================================
 
