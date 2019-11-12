@@ -15,19 +15,19 @@ _LEARN SQL   https://www.w3schools.com/sql/ _<br/>
 _LEARN SQL   https://www.tutorialspoint.com/sql/ _<br/>
 
 
- ## IN CLASS SOURCES
-_Syntax  https://www.w3schools.com/sql/sql_syntax.asp 
-_Data Types  https://www.w3schools.com/sql/sql_datatypes.asp
-_CREATE DATABASE  https://www.w3schools.com/sql/sql_create_db.asp
-_DROP DATABASE  https://www.w3schools.com/sql/sql_drop_db.asp
-_CREATE TABLE  https://www.w3schools.com/sql/sql_create_table.asp
-_DROP TABLE  https://www.w3schools.com/sql/sql_drop_table.asp
-_SELECT statement  https://www.w3schools.com/sql/sql_select.asp
-_Where condition  https://www.w3schools.com/sql/sql_where.asp
-_INSERT INTO statement  https://www.w3schools.com/sql/sql_insert.asp
-_NULL values  https://www.w3schools.com/sql/sql_null_values.asp
-_UPDATE statement  https://www.w3schools.com/sql/sql_update.asp
-_DELETE  statement  https://www.w3schools.com/sql/sql_delete.asp
+_**IN CLASS SOURCES**_ <br/>
+_Syntax  https://www.w3schools.com/sql/sql_syntax.asp _<br/>
+_Data Types  https://www.w3schools.com/sql/sql_datatypes.asp _<br/
+_CREATE DATABASE  https://www.w3schools.com/sql/sql_create_db.asp _<br/
+_DROP DATABASE  https://www.w3schools.com/sql/sql_drop_db.asp _<br/
+_CREATE TABLE  https://www.w3schools.com/sql/sql_create_table.asp _<br/
+_DROP TABLE  https://www.w3schools.com/sql/sql_drop_table.asp _<br/
+_SELECT statement  https://www.w3schools.com/sql/sql_select.asp _<br/
+_Where condition  https://www.w3schools.com/sql/sql_where.asp _<br/
+_INSERT INTO statement  https://www.w3schools.com/sql/sql_insert.asp _<br/
+_NULL values  https://www.w3schools.com/sql/sql_null_values.asp _<br/
+_UPDATE statement  https://www.w3schools.com/sql/sql_update.asp _<br/
+_DELETE  statement  https://www.w3schools.com/sql/sql_delete.asp _<br/
 
 ================================================================================
 
@@ -47,22 +47,24 @@ _First Steps before creating DATABASE_
 ## Commands Used
 _Some of The Most Important SQL Commands_
 
-# SELECT - extracts data from a database
-# UPDATE - updates data in a database
-# DELETE - deletes data from a database
-# INSERT INTO - inserts new data into a database
-# CREATE DATABASE - creates a new database
-# ALTER DATABASE - modifies a database
-# CREATE TABLE - creates a new table
-# ALTER TABLE - modifies a table
-# DROP TABLE - deletes a table
-# CREATE INDEX - creates an index (search key)
-# DROP INDEX - deletes an index
+### SELECT - extracts data from a database
+### UPDATE - updates data in a database
+### DELETE - deletes data from a database
+### INSERT INTO - inserts new data into a database
+### CREATE DATABASE - creates a new database
+### ALTER DATABASE - modifies a database
+### CREATE TABLE - creates a new table
+### ALTER TABLE - modifies a table
+### DROP TABLE - deletes a table
+### CREATE INDEX - creates an index (search key)
+### DROP INDEX - deletes an index
 
 _IMPORTANT: one of the fields always needs a dedicated **PRIMARY KEY**_
 
 ## Technologies Used
 
 _**SQL** - Scripting Query Language_<br/>
+
+## Licence
 
 _**MIT License. Copyright (c) 2019 Josh Hortt**_
